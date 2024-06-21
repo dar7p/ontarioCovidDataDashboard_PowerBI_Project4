@@ -1,4 +1,5 @@
 
+### To View PDF of dashboard : ontarioCovidDataDashboard_PowerBI.pdf
 ### To run report : work/ontarioCovidDataDashboard_PowerBI.pbix
 ### To go through documentation of measures, calculated columns and preprocessing part explanation : work/ontarioCovidDataDashboard_PowerBI_Documentation.pdf
 ### To go through python part : where preprocesing of one of table mentioned in documentation occured in file work/pythonPart/HUID_transformation.ipynb
