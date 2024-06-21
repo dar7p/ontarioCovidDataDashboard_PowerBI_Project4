@@ -2,6 +2,7 @@ work/pythonPart/venvPythonPart
 work/dictionary_of_data/
 dict_1_Variable Name1.docx
 dict_2_Variable Name1.docx
+
 # ignoring : Confirmed positive cases of COVID19 in Ontario.csv & 1 Confirmed positive cases of COVID19 in Ontario.csv
-Ontario.csv
-1_Confirmed_positive_cases_of_COVID19_in_Ontario.csv
+data/1 Confirmed positive cases of COVID19 in Ontario.csv
+raw_data/covid data/Confirmed positive cases of COVID19 in Ontario.csv
